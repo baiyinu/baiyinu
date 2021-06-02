@@ -1,0 +1,10 @@
+
+(phantomjs:5312): Gtk-WARNING **: 18:10:23.287: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(phantomjs:5312): Gtk-WARNING **: 18:10:23.287: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+[INFO  - 2021-04-21T10:10:23.581Z] GhostDriver - Main - running on port 43369
+[INFO  - 2021-04-21T10:10:24.192Z] Session [c99f1f40-a289-11eb-83ea-af6012242cd9] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/602.1 (KHTML, like Gecko) PhantomJS/2.1.1 Version/10.0 Safari/602.1"}
+[INFO  - 2021-04-21T10:10:24.192Z] Session [c99f1f40-a289-11eb-83ea-af6012242cd9] - page.customHeaders:  - {}
+[INFO  - 2021-04-21T10:10:24.192Z] Session [c99f1f40-a289-11eb-83ea-af6012242cd9] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2021-04-21T10:10:24.193Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: c99f1f40-a289-11eb-83ea-af6012242cd9
+[ERROR - 2021-04-21T10:10:24.216Z] RouterReqHand - _handle.error - {"line":40,"column":28}

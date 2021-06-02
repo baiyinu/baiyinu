@@ -1,0 +1,1727 @@
+1618834083761	geckodriver	INFO	Listening on 127.0.0.1:53553
+1618834083765	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOvAE8L"
+
+(firefox:7190): Gtk-WARNING **: 20:08:03.849: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:7190): Gtk-WARNING **: 20:08:03.849: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:7279): Gtk-WARNING **: 20:08:04.844: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:7279): Gtk-WARNING **: 20:08:04.844: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:7190): Gtk-WARNING **: 20:08:04.870: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:7190): Gtk-WARNING **: 20:08:04.870: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:7190): Gtk-WARNING **: 20:08:04.952: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:7190): Gtk-WARNING **: 20:08:04.952: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:7307): Gtk-WARNING **: 20:08:05.208: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:7307): Gtk-WARNING **: 20:08:05.208: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:7387): Gtk-WARNING **: 20:08:06.273: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:7387): Gtk-WARNING **: 20:08:06.273: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618834086286	Marionette	INFO	Listening on port 32805
+1618834086393	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618834090026	geckodriver	INFO	Listening on 127.0.0.1:37241
+1618834091029	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRDwjBD"
+
+(firefox:7445): Gtk-WARNING **: 20:08:11.099: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:7445): Gtk-WARNING **: 20:08:11.099: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:7533): Gtk-WARNING **: 20:08:12.119: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:7533): Gtk-WARNING **: 20:08:12.119: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:7445): Gtk-WARNING **: 20:08:12.155: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:7445): Gtk-WARNING **: 20:08:12.155: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:7445): Gtk-WARNING **: 20:08:12.228: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:7445): Gtk-WARNING **: 20:08:12.228: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:7561): Gtk-WARNING **: 20:08:12.481: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:7561): Gtk-WARNING **: 20:08:12.481: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:7640): Gtk-WARNING **: 20:08:13.527: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:7640): Gtk-WARNING **: 20:08:13.527: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618834093536	Marionette	INFO	Listening on port 34141
+1618834093661	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618834096414	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1618834098639	geckodriver	INFO	Listening on 127.0.0.1:60267
+1618834098644	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesIolaj"
+
+(firefox:7699): Gtk-WARNING **: 20:08:18.723: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:7699): Gtk-WARNING **: 20:08:18.724: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:7787): Gtk-WARNING **: 20:08:19.866: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:7787): Gtk-WARNING **: 20:08:19.866: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:7699): Gtk-WARNING **: 20:08:19.908: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:7699): Gtk-WARNING **: 20:08:19.908: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:7699): Gtk-WARNING **: 20:08:19.980: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:7699): Gtk-WARNING **: 20:08:19.980: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:7815): Gtk-WARNING **: 20:08:20.225: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:7815): Gtk-WARNING **: 20:08:20.225: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:7906): Gtk-WARNING **: 20:08:21.406: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:7906): Gtk-WARNING **: 20:08:21.406: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618834101425	Marionette	INFO	Listening on port 37509
+1618834101471	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618834104396	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1618834109781	geckodriver	INFO	Listening on 127.0.0.1:51201
+1618834109784	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePlhXq9"
+
+(firefox:7975): Gtk-WARNING **: 20:08:29.845: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:7975): Gtk-WARNING **: 20:08:29.845: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:8064): Gtk-WARNING **: 20:08:30.901: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:8064): Gtk-WARNING **: 20:08:30.901: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:7975): Gtk-WARNING **: 20:08:30.945: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:7975): Gtk-WARNING **: 20:08:30.945: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:7975): Gtk-WARNING **: 20:08:31.024: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:7975): Gtk-WARNING **: 20:08:31.024: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:8092): Gtk-WARNING **: 20:08:31.259: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:8092): Gtk-WARNING **: 20:08:31.259: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:8168): Gtk-WARNING **: 20:08:32.358: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:8168): Gtk-WARNING **: 20:08:32.358: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618834112440	Marionette	INFO	Listening on port 37837
+1618834112507	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618834115094	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1618834122002	geckodriver	INFO	Listening on 127.0.0.1:45913
+1618834123006	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQl1f0W"
+
+(firefox:8253): Gtk-WARNING **: 20:08:43.080: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:8253): Gtk-WARNING **: 20:08:43.081: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:8341): Gtk-WARNING **: 20:08:44.239: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:8341): Gtk-WARNING **: 20:08:44.239: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:8253): Gtk-WARNING **: 20:08:44.300: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:8253): Gtk-WARNING **: 20:08:44.300: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:8253): Gtk-WARNING **: 20:08:44.377: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:8253): Gtk-WARNING **: 20:08:44.377: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:8370): Gtk-WARNING **: 20:08:44.631: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:8370): Gtk-WARNING **: 20:08:44.631: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:8449): Gtk-WARNING **: 20:08:45.741: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:8449): Gtk-WARNING **: 20:08:45.741: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618834125743	Marionette	INFO	Listening on port 42761
+1618834125832	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1618834150452	Marionette	INFO	Stopped listening on port 34141
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1618834155278	Marionette	INFO	Stopped listening on port 32805
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618834895187	geckodriver	INFO	Listening on 127.0.0.1:43185
+1618834896199	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileE7rQfr"
+
+(firefox:9444): Gtk-WARNING **: 20:21:36.295: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:9444): Gtk-WARNING **: 20:21:36.295: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:9532): Gtk-WARNING **: 20:21:37.355: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:9532): Gtk-WARNING **: 20:21:37.355: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:9444): Gtk-WARNING **: 20:21:37.393: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:9444): Gtk-WARNING **: 20:21:37.393: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:9444): Gtk-WARNING **: 20:21:37.463: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:9444): Gtk-WARNING **: 20:21:37.463: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:9561): Gtk-WARNING **: 20:21:37.671: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:9561): Gtk-WARNING **: 20:21:37.672: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:9641): Gtk-WARNING **: 20:21:38.836: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:9641): Gtk-WARNING **: 20:21:38.836: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618834898843	Marionette	INFO	Listening on port 39285
+1618834898953	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618834900733	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1618834917272	Marionette	INFO	Stopped listening on port 39285
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618834917843	geckodriver	INFO	Listening on 127.0.0.1:49467
+1618834918856	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileb3Ogjm"
+
+(firefox:9734): Gtk-WARNING **: 20:21:58.961: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:9734): Gtk-WARNING **: 20:21:58.961: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:9824): Gtk-WARNING **: 20:22:00.045: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:9824): Gtk-WARNING **: 20:22:00.045: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:9734): Gtk-WARNING **: 20:22:00.095: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:9734): Gtk-WARNING **: 20:22:00.095: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:9734): Gtk-WARNING **: 20:22:00.164: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:9734): Gtk-WARNING **: 20:22:00.164: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:9853): Gtk-WARNING **: 20:22:00.381: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:9853): Gtk-WARNING **: 20:22:00.381: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:9931): Gtk-WARNING **: 20:22:01.533: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:9931): Gtk-WARNING **: 20:22:01.533: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618834921541	Marionette	INFO	Listening on port 39267
+1618834921583	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618834924089	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1618834942162	Marionette	INFO	Stopped listening on port 39267
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618834942796	geckodriver	INFO	Listening on 127.0.0.1:52991
+1618834943808	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilel3hiVT"
+
+(firefox:10009): Gtk-WARNING **: 20:22:23.908: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:10009): Gtk-WARNING **: 20:22:23.908: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:10098): Gtk-WARNING **: 20:22:24.914: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:10098): Gtk-WARNING **: 20:22:24.914: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:10009): Gtk-WARNING **: 20:22:24.953: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:10009): Gtk-WARNING **: 20:22:24.953: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:10009): Gtk-WARNING **: 20:22:25.024: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:10009): Gtk-WARNING **: 20:22:25.024: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:10127): Gtk-WARNING **: 20:22:25.237: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:10127): Gtk-WARNING **: 20:22:25.237: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:10205): Gtk-WARNING **: 20:22:26.361: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:10205): Gtk-WARNING **: 20:22:26.361: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618834946375	Marionette	INFO	Listening on port 35721
+1618834946432	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618834949996	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1618834951682	Marionette	INFO	Stopped listening on port 35721
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1709: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618834952258	geckodriver	INFO	Listening on 127.0.0.1:45347
+1618834953270	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewxYoeI"
+
+(firefox:10280): Gtk-WARNING **: 20:22:33.359: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:10280): Gtk-WARNING **: 20:22:33.359: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:10365): Gtk-WARNING **: 20:22:34.358: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:10365): Gtk-WARNING **: 20:22:34.358: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:10280): Gtk-WARNING **: 20:22:34.395: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:10280): Gtk-WARNING **: 20:22:34.395: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:10280): Gtk-WARNING **: 20:22:34.464: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:10280): Gtk-WARNING **: 20:22:34.464: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:10395): Gtk-WARNING **: 20:22:34.688: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:10395): Gtk-WARNING **: 20:22:34.688: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:10476): Gtk-WARNING **: 20:22:35.674: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:10476): Gtk-WARNING **: 20:22:35.674: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618834955691	Marionette	INFO	Listening on port 41593
+1618834955795	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618834957918	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1618834959017	Marionette	INFO	Stopped listening on port 41593
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618834959567	geckodriver	INFO	Listening on 127.0.0.1:34115
+1618834960579	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePucVuq"
+
+(firefox:10552): Gtk-WARNING **: 20:22:40.679: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:10552): Gtk-WARNING **: 20:22:40.679: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:10641): Gtk-WARNING **: 20:22:41.708: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:10641): Gtk-WARNING **: 20:22:41.708: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:10552): Gtk-WARNING **: 20:22:41.748: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:10552): Gtk-WARNING **: 20:22:41.748: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:10552): Gtk-WARNING **: 20:22:41.818: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:10552): Gtk-WARNING **: 20:22:41.818: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:10669): Gtk-WARNING **: 20:22:42.023: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:10669): Gtk-WARNING **: 20:22:42.024: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:10747): Gtk-WARNING **: 20:22:43.151: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:10747): Gtk-WARNING **: 20:22:43.151: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618834963163	Marionette	INFO	Listening on port 46767
+1618834963201	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618834966975	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1618834971845	Marionette	INFO	Stopped listening on port 46767
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618834972423	geckodriver	INFO	Listening on 127.0.0.1:44071
+1618834973436	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefjKyGF"
+
+(firefox:10822): Gtk-WARNING **: 20:22:53.538: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:10822): Gtk-WARNING **: 20:22:53.538: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:10913): Gtk-WARNING **: 20:22:54.611: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:10913): Gtk-WARNING **: 20:22:54.611: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:10822): Gtk-WARNING **: 20:22:54.650: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:10822): Gtk-WARNING **: 20:22:54.650: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:10822): Gtk-WARNING **: 20:22:54.722: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:10822): Gtk-WARNING **: 20:22:54.722: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:10941): Gtk-WARNING **: 20:22:54.938: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:10941): Gtk-WARNING **: 20:22:54.938: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:11021): Gtk-WARNING **: 20:22:56.013: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:11021): Gtk-WARNING **: 20:22:56.013: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618834976018	Marionette	INFO	Listening on port 36527
+1618834976062	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1618834991961	geckodriver	INFO	Listening on 127.0.0.1:60187
+1618834992980	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilek0U1TC"
+
+(firefox:11075): Gtk-WARNING **: 20:23:13.069: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:11075): Gtk-WARNING **: 20:23:13.069: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:11165): Gtk-WARNING **: 20:23:14.128: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:11165): Gtk-WARNING **: 20:23:14.128: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:11075): Gtk-WARNING **: 20:23:14.165: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:11075): Gtk-WARNING **: 20:23:14.165: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:11075): Gtk-WARNING **: 20:23:14.237: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:11075): Gtk-WARNING **: 20:23:14.237: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:11193): Gtk-WARNING **: 20:23:14.454: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:11193): Gtk-WARNING **: 20:23:14.454: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:11273): Gtk-WARNING **: 20:23:15.541: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:11273): Gtk-WARNING **: 20:23:15.541: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618834995557	Marionette	INFO	Listening on port 46173
+1618834995604	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618834998822	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1618835000423	Marionette	INFO	Stopped listening on port 46173
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618835000939	geckodriver	INFO	Listening on 127.0.0.1:34803
+1618835000946	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileH5jnYR"
+
+(firefox:11334): Gtk-WARNING **: 20:23:21.019: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:11334): Gtk-WARNING **: 20:23:21.019: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:11426): Gtk-WARNING **: 20:23:22.134: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:11426): Gtk-WARNING **: 20:23:22.134: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:11334): Gtk-WARNING **: 20:23:22.174: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:11334): Gtk-WARNING **: 20:23:22.175: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:11334): Gtk-WARNING **: 20:23:22.249: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:11334): Gtk-WARNING **: 20:23:22.249: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:11454): Gtk-WARNING **: 20:23:22.475: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:11454): Gtk-WARNING **: 20:23:22.475: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:11530): Gtk-WARNING **: 20:23:23.484: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:11530): Gtk-WARNING **: 20:23:23.484: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618835003498	Marionette	INFO	Listening on port 46207
+1618835003569	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1618835190312	geckodriver	INFO	Listening on 127.0.0.1:52063
+1618835191324	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVihpv6"
+
+(firefox:11964): Gtk-WARNING **: 20:26:31.422: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:11964): Gtk-WARNING **: 20:26:31.422: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:12053): Gtk-WARNING **: 20:26:32.430: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:12053): Gtk-WARNING **: 20:26:32.430: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:11964): Gtk-WARNING **: 20:26:32.469: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:11964): Gtk-WARNING **: 20:26:32.469: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:11964): Gtk-WARNING **: 20:26:32.539: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:11964): Gtk-WARNING **: 20:26:32.539: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:12085): Gtk-WARNING **: 20:26:32.742: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:12085): Gtk-WARNING **: 20:26:32.742: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:12168): Gtk-WARNING **: 20:26:33.803: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:12168): Gtk-WARNING **: 20:26:33.803: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618835193884	Marionette	INFO	Listening on port 42485
+1618835193946	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618835195416	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1618835206815	Marionette	INFO	Stopped listening on port 42485
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618835207353	geckodriver	INFO	Listening on 127.0.0.1:60791
+1618835208365	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXwmw6C"
+
+(firefox:12249): Gtk-WARNING **: 20:26:48.456: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:12249): Gtk-WARNING **: 20:26:48.456: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:12336): Gtk-WARNING **: 20:26:49.465: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:12336): Gtk-WARNING **: 20:26:49.465: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:12249): Gtk-WARNING **: 20:26:49.503: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:12249): Gtk-WARNING **: 20:26:49.503: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:12249): Gtk-WARNING **: 20:26:49.573: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:12249): Gtk-WARNING **: 20:26:49.573: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:12364): Gtk-WARNING **: 20:26:49.795: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:12364): Gtk-WARNING **: 20:26:49.795: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:12440): Gtk-WARNING **: 20:26:50.753: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:12440): Gtk-WARNING **: 20:26:50.753: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618835210791	Marionette	INFO	Listening on port 39407
+1618835210893	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618835213669	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1618835224407	Marionette	INFO	Stopped listening on port 39407
+1618835224983	geckodriver	INFO	Listening on 127.0.0.1:41587
+1618835224986	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileijxvdO"
+
+(firefox:12519): Gtk-WARNING **: 20:27:05.062: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:12519): Gtk-WARNING **: 20:27:05.063: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:12608): Gtk-WARNING **: 20:27:06.124: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:12608): Gtk-WARNING **: 20:27:06.124: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:12519): Gtk-WARNING **: 20:27:06.162: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:12519): Gtk-WARNING **: 20:27:06.162: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:12519): Gtk-WARNING **: 20:27:06.233: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:12519): Gtk-WARNING **: 20:27:06.233: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:12636): Gtk-WARNING **: 20:27:06.472: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:12636): Gtk-WARNING **: 20:27:06.472: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:12715): Gtk-WARNING **: 20:27:07.701: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:12715): Gtk-WARNING **: 20:27:07.701: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618835227725	Marionette	INFO	Listening on port 40437
+1618835227811	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1618835517509	geckodriver	INFO	Listening on 127.0.0.1:60149
+1618835518522	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVIGsEz"
+
+(firefox:13001): Gtk-WARNING **: 20:31:58.608: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:13001): Gtk-WARNING **: 20:31:58.608: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:13092): Gtk-WARNING **: 20:31:59.649: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:13092): Gtk-WARNING **: 20:31:59.649: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:13001): Gtk-WARNING **: 20:31:59.687: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:13001): Gtk-WARNING **: 20:31:59.687: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:13001): Gtk-WARNING **: 20:31:59.768: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:13001): Gtk-WARNING **: 20:31:59.768: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:13123): Gtk-WARNING **: 20:31:59.986: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:13123): Gtk-WARNING **: 20:31:59.986: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:13203): Gtk-WARNING **: 20:32:01.042: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:13203): Gtk-WARNING **: 20:32:01.042: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618835521078	Marionette	INFO	Listening on port 41645
+1618835521143	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618835524336	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1618835525476	Marionette	INFO	Stopped listening on port 41645
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618907706479	geckodriver	INFO	Listening on 127.0.0.1:42509
+1618907707488	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHtiPJG"
+
+(firefox:6820): Gtk-WARNING **: 16:35:07.546: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:6820): Gtk-WARNING **: 16:35:07.546: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:6907): Gtk-WARNING **: 16:35:08.623: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:6907): Gtk-WARNING **: 16:35:08.623: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:6820): Gtk-WARNING **: 16:35:08.660: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:6820): Gtk-WARNING **: 16:35:08.660: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:6820): Gtk-WARNING **: 16:35:08.733: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:6820): Gtk-WARNING **: 16:35:08.733: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:6935): Gtk-WARNING **: 16:35:08.973: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:6935): Gtk-WARNING **: 16:35:08.973: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:7016): Gtk-WARNING **: 16:35:10.146: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:7016): Gtk-WARNING **: 16:35:10.147: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618907710326	Marionette	INFO	Listening on port 44303
+1618907710414	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618907712114	Marionette	INFO	Stopped listening on port 44303
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618908662554	geckodriver	INFO	Listening on 127.0.0.1:46807
+1618908662560	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletFQgib"
+
+(firefox:9649): Gtk-WARNING **: 16:51:02.654: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:9649): Gtk-WARNING **: 16:51:02.654: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:9744): Gtk-WARNING **: 16:51:03.668: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:9744): Gtk-WARNING **: 16:51:03.668: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:9649): Gtk-WARNING **: 16:51:03.707: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:9649): Gtk-WARNING **: 16:51:03.707: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:9649): Gtk-WARNING **: 16:51:03.781: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:9649): Gtk-WARNING **: 16:51:03.781: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:9772): Gtk-WARNING **: 16:51:04.007: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:9772): Gtk-WARNING **: 16:51:04.007: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:9854): Gtk-WARNING **: 16:51:05.362: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:9854): Gtk-WARNING **: 16:51:05.363: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618908665375	Marionette	INFO	Listening on port 39559
+1618908665484	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1618908717456	geckodriver	INFO	Listening on 127.0.0.1:55053
+1618908717462	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegj32Cc"
+
+(firefox:9953): Gtk-WARNING **: 16:51:57.536: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:9953): Gtk-WARNING **: 16:51:57.536: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:10045): Gtk-WARNING **: 16:51:58.521: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:10045): Gtk-WARNING **: 16:51:58.521: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:9953): Gtk-WARNING **: 16:51:58.560: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:9953): Gtk-WARNING **: 16:51:58.560: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:9953): Gtk-WARNING **: 16:51:58.628: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:9953): Gtk-WARNING **: 16:51:58.629: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:10073): Gtk-WARNING **: 16:51:58.857: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:10073): Gtk-WARNING **: 16:51:58.857: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618908720004	Marionette	INFO	Listening on port 45807
+
+(/usr/lib/firefox/firefox:10151): Gtk-WARNING **: 16:52:00.005: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:10151): Gtk-WARNING **: 16:52:00.006: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618908720103	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+1618908721289	Marionette	INFO	Stopped listening on port 45807
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1618908766163	geckodriver	INFO	Listening on 127.0.0.1:54573
+1618908766168	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileU4kleg"
+
+(firefox:10302): Gtk-WARNING **: 16:52:46.227: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:10302): Gtk-WARNING **: 16:52:46.227: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:10390): Gtk-WARNING **: 16:52:47.250: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:10390): Gtk-WARNING **: 16:52:47.250: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:10302): Gtk-WARNING **: 16:52:47.271: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:10302): Gtk-WARNING **: 16:52:47.271: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:10302): Gtk-WARNING **: 16:52:47.342: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:10302): Gtk-WARNING **: 16:52:47.342: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:10418): Gtk-WARNING **: 16:52:47.583: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:10418): Gtk-WARNING **: 16:52:47.583: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:10498): Gtk-WARNING **: 16:52:48.586: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:10498): Gtk-WARNING **: 16:52:48.586: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618908768600	Marionette	INFO	Listening on port 41955
+1618908768688	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+1618908769988	Marionette	INFO	Stopped listening on port 41955
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618909243384	geckodriver	INFO	Listening on 127.0.0.1:57071
+1618909243390	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilez97BfH"
+
+(firefox:11626): Gtk-WARNING **: 17:00:43.473: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:11626): Gtk-WARNING **: 17:00:43.474: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:11711): Gtk-WARNING **: 17:00:44.589: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:11711): Gtk-WARNING **: 17:00:44.589: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:11626): Gtk-WARNING **: 17:00:44.628: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:11626): Gtk-WARNING **: 17:00:44.628: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:11626): Gtk-WARNING **: 17:00:44.697: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:11626): Gtk-WARNING **: 17:00:44.697: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:11740): Gtk-WARNING **: 17:00:44.896: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:11740): Gtk-WARNING **: 17:00:44.896: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:11826): Gtk-WARNING **: 17:00:45.955: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:11826): Gtk-WARNING **: 17:00:45.955: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618909245962	Marionette	INFO	Listening on port 46699
+1618909246020	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+1618909247285	Marionette	INFO	Stopped listening on port 46699
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618909512022	Marionette	INFO	Stopped listening on port 39559
+1618909514380	geckodriver	INFO	Listening on 127.0.0.1:40973
+1618909514386	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevAfJeX"
+
+(firefox:12081): Gtk-WARNING **: 17:05:14.454: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:12081): Gtk-WARNING **: 17:05:14.454: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:12171): Gtk-WARNING **: 17:05:15.622: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:12171): Gtk-WARNING **: 17:05:15.622: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:12081): Gtk-WARNING **: 17:05:15.668: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:12081): Gtk-WARNING **: 17:05:15.668: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:12081): Gtk-WARNING **: 17:05:15.753: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:12081): Gtk-WARNING **: 17:05:15.753: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:12199): Gtk-WARNING **: 17:05:15.974: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:12199): Gtk-WARNING **: 17:05:15.974: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:12278): Gtk-WARNING **: 17:05:16.925: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:12278): Gtk-WARNING **: 17:05:16.926: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618909516943	Marionette	INFO	Listening on port 32823
+1618909517008	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+1618909518478	Marionette	INFO	Stopped listening on port 32823
+1618909547551	geckodriver	INFO	Listening on 127.0.0.1:35763
+1618909547556	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefeZbs1"
+
+(firefox:12374): Gtk-WARNING **: 17:05:47.614: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:12374): Gtk-WARNING **: 17:05:47.614: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:12466): Gtk-WARNING **: 17:05:48.793: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:12466): Gtk-WARNING **: 17:05:48.793: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:12374): Gtk-WARNING **: 17:05:48.837: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:12374): Gtk-WARNING **: 17:05:48.837: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:12374): Gtk-WARNING **: 17:05:48.910: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:12374): Gtk-WARNING **: 17:05:48.910: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:12494): Gtk-WARNING **: 17:05:49.123: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:12494): Gtk-WARNING **: 17:05:49.123: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:12572): Gtk-WARNING **: 17:05:50.124: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:12572): Gtk-WARNING **: 17:05:50.124: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618909550141	Marionette	INFO	Listening on port 40869
+1618909550179	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+1618909553266	Marionette	INFO	Stopped listening on port 40869
+1618909781892	geckodriver	INFO	Listening on 127.0.0.1:35429
+1618909781898	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileq77KP3"
+
+(firefox:13309): Gtk-WARNING **: 17:09:41.976: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:13309): Gtk-WARNING **: 17:09:41.976: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:13398): Gtk-WARNING **: 17:09:43.168: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:13398): Gtk-WARNING **: 17:09:43.168: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:13309): Gtk-WARNING **: 17:09:43.205: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:13309): Gtk-WARNING **: 17:09:43.205: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:13309): Gtk-WARNING **: 17:09:43.287: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:13309): Gtk-WARNING **: 17:09:43.287: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:13426): Gtk-WARNING **: 17:09:43.587: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:13426): Gtk-WARNING **: 17:09:43.587: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:13508): Gtk-WARNING **: 17:09:44.877: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:13508): Gtk-WARNING **: 17:09:44.877: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618909784969	Marionette	INFO	Listening on port 37567
+1618909785025	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+1618909786347	Marionette	INFO	Stopped listening on port 37567
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618910086081	geckodriver	INFO	Listening on 127.0.0.1:56667
+1618910086086	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNfeJWJ"
+
+(firefox:13865): Gtk-WARNING **: 17:14:46.156: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:13865): Gtk-WARNING **: 17:14:46.156: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:13956): Gtk-WARNING **: 17:14:47.234: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:13956): Gtk-WARNING **: 17:14:47.234: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:13865): Gtk-WARNING **: 17:14:47.273: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:13865): Gtk-WARNING **: 17:14:47.273: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:13865): Gtk-WARNING **: 17:14:47.345: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:13865): Gtk-WARNING **: 17:14:47.345: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:13984): Gtk-WARNING **: 17:14:47.596: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:13984): Gtk-WARNING **: 17:14:47.596: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:14065): Gtk-WARNING **: 17:14:48.749: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:14065): Gtk-WARNING **: 17:14:48.749: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618910088760	Marionette	INFO	Listening on port 38281
+1618910088811	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+1618910090196	Marionette	INFO	Stopped listening on port 38281
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618910172415	geckodriver	INFO	Listening on 127.0.0.1:57129
+1618910172421	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTohTM8"
+
+(firefox:14187): Gtk-WARNING **: 17:16:12.499: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:14187): Gtk-WARNING **: 17:16:12.499: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:14278): Gtk-WARNING **: 17:16:13.618: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:14278): Gtk-WARNING **: 17:16:13.618: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:14187): Gtk-WARNING **: 17:16:13.658: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:14187): Gtk-WARNING **: 17:16:13.658: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:14187): Gtk-WARNING **: 17:16:13.728: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:14187): Gtk-WARNING **: 17:16:13.728: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:14306): Gtk-WARNING **: 17:16:13.949: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:14306): Gtk-WARNING **: 17:16:13.949: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:14385): Gtk-WARNING **: 17:16:15.184: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:14385): Gtk-WARNING **: 17:16:15.184: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618910175202	Marionette	INFO	Listening on port 43457
+1618910175266	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+1618910176715	Marionette	INFO	Stopped listening on port 43457
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618910231247	geckodriver	INFO	Listening on 127.0.0.1:54815
+1618910231253	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHe3315"
+
+(firefox:14493): Gtk-WARNING **: 17:17:11.320: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:14493): Gtk-WARNING **: 17:17:11.320: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:14584): Gtk-WARNING **: 17:17:12.404: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:14584): Gtk-WARNING **: 17:17:12.404: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:14493): Gtk-WARNING **: 17:17:12.446: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:14493): Gtk-WARNING **: 17:17:12.446: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:14493): Gtk-WARNING **: 17:17:12.517: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:14493): Gtk-WARNING **: 17:17:12.517: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:14612): Gtk-WARNING **: 17:17:12.742: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:14612): Gtk-WARNING **: 17:17:12.742: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:14688): Gtk-WARNING **: 17:17:13.818: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:14688): Gtk-WARNING **: 17:17:13.818: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618910233831	Marionette	INFO	Listening on port 44375
+1618910233887	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+1618910235151	Marionette	INFO	Stopped listening on port 44375
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618911986363	geckodriver	INFO	Listening on 127.0.0.1:52955
+1618911986368	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileO9yJtI"
+
+(firefox:16951): Gtk-WARNING **: 17:46:26.426: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:16951): Gtk-WARNING **: 17:46:26.426: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:17041): Gtk-WARNING **: 17:46:27.497: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:17041): Gtk-WARNING **: 17:46:27.497: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:16951): Gtk-WARNING **: 17:46:27.537: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:16951): Gtk-WARNING **: 17:46:27.537: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:16951): Gtk-WARNING **: 17:46:27.608: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:16951): Gtk-WARNING **: 17:46:27.608: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:17070): Gtk-WARNING **: 17:46:27.839: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:17070): Gtk-WARNING **: 17:46:27.839: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:17164): Gtk-WARNING **: 17:46:28.919: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:17164): Gtk-WARNING **: 17:46:28.919: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618911988932	Marionette	INFO	Listening on port 37227
+1618911988990	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+1618911990278	Marionette	INFO	Stopped listening on port 37227
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618912029366	geckodriver	INFO	Listening on 127.0.0.1:41999
+1618912029371	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3NCNJr"
+
+(firefox:17260): Gtk-WARNING **: 17:47:09.434: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:17260): Gtk-WARNING **: 17:47:09.434: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:17352): Gtk-WARNING **: 17:47:10.524: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:17352): Gtk-WARNING **: 17:47:10.525: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:17260): Gtk-WARNING **: 17:47:10.562: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:17260): Gtk-WARNING **: 17:47:10.562: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:17260): Gtk-WARNING **: 17:47:10.630: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:17260): Gtk-WARNING **: 17:47:10.630: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:17380): Gtk-WARNING **: 17:47:10.841: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:17380): Gtk-WARNING **: 17:47:10.841: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:17460): Gtk-WARNING **: 17:47:11.935: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:17460): Gtk-WARNING **: 17:47:11.935: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618912031938	Marionette	INFO	Listening on port 45143
+1618912032002	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+1618912033281	Marionette	INFO	Stopped listening on port 45143
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618912121167	geckodriver	INFO	Listening on 127.0.0.1:44307
+1618912121171	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKFtwRG"
+
+(firefox:17839): Gtk-WARNING **: 17:48:41.229: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:17839): Gtk-WARNING **: 17:48:41.229: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:17929): Gtk-WARNING **: 17:48:42.327: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:17929): Gtk-WARNING **: 17:48:42.327: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:17839): Gtk-WARNING **: 17:48:42.365: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:17839): Gtk-WARNING **: 17:48:42.365: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:17839): Gtk-WARNING **: 17:48:42.434: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:17839): Gtk-WARNING **: 17:48:42.434: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:17957): Gtk-WARNING **: 17:48:42.651: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:17957): Gtk-WARNING **: 17:48:42.651: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:18034): Gtk-WARNING **: 17:48:43.833: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:18034): Gtk-WARNING **: 17:48:43.833: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618912123852	Marionette	INFO	Listening on port 46601
+1618912123898	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: WebGL context was lost.
+1618912126587	Marionette	INFO	Stopped listening on port 46601
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618912240365	geckodriver	INFO	Listening on 127.0.0.1:45023
+1618912240370	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKPzmaU"
+
+(firefox:18735): Gtk-WARNING **: 17:50:40.427: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:18735): Gtk-WARNING **: 17:50:40.428: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:18825): Gtk-WARNING **: 17:50:41.512: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:18825): Gtk-WARNING **: 17:50:41.512: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:18735): Gtk-WARNING **: 17:50:41.549: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:18735): Gtk-WARNING **: 17:50:41.549: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:18735): Gtk-WARNING **: 17:50:41.617: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:18735): Gtk-WARNING **: 17:50:41.617: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:18853): Gtk-WARNING **: 17:50:41.825: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:18853): Gtk-WARNING **: 17:50:41.825: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:18930): Gtk-WARNING **: 17:50:42.763: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:18930): Gtk-WARNING **: 17:50:42.763: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618912242772	Marionette	INFO	Listening on port 46123
+1618912242792	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+1618912245093	Marionette	INFO	Stopped listening on port 46123
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618912282457	geckodriver	INFO	Listening on 127.0.0.1:48049
+1618912282461	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDxvJS7"
+
+(firefox:19407): Gtk-WARNING **: 17:51:22.520: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:19407): Gtk-WARNING **: 17:51:22.520: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:19496): Gtk-WARNING **: 17:51:23.558: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:19496): Gtk-WARNING **: 17:51:23.558: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:19407): Gtk-WARNING **: 17:51:23.597: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:19407): Gtk-WARNING **: 17:51:23.597: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:19407): Gtk-WARNING **: 17:51:23.666: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:19407): Gtk-WARNING **: 17:51:23.666: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:19524): Gtk-WARNING **: 17:51:23.872: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:19524): Gtk-WARNING **: 17:51:23.872: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:19600): Gtk-WARNING **: 17:51:24.859: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:19600): Gtk-WARNING **: 17:51:24.859: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618912284876	Marionette	INFO	Listening on port 41083
+1618912284987	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618912285143	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: WebGL context was lost.
+1618912298007	Marionette	INFO	Stopped listening on port 41083
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child3/domwalker27, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:546:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:114:18\nstop@resource://devtools/client/inspector/node-picker.js:174:18\n_destroyToolbox@resource://devtools/client/framework/toolbox.js:3718:24\ndestroy@resource://devtools/client/framework/toolbox.js:3652:10\n_forgetBrowserWindow@resource://devtools/client/framework/devtools-browser.js:709:17\ndestroy@resource://devtools/client/framework/devtools-browser.js:754:24\nobserve@resource://devtools/client/framework/devtools-browser.js:191:26\nGeckoDriver.prototype.quit@chrome://marionette/content/driver.js:2889:20\ndespatch@chrome://marionette/content/server.js:295:40\nexecute@chrome://marionette/content/server.js:265:16\nonPacket/<@chrome://marionette/content/server.js:238:20\nonPacket@chrome://marionette/content/server.js:239:9\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:504:20\n", "resource://devtools/shared/protocol/Front.js", 99))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618912518193	geckodriver	INFO	Listening on 127.0.0.1:37381
+1618912518198	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3RbcpR"
+
+(firefox:20022): Gtk-WARNING **: 17:55:18.257: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:20022): Gtk-WARNING **: 17:55:18.257: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:20114): Gtk-WARNING **: 17:55:19.381: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:20114): Gtk-WARNING **: 17:55:19.381: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:20022): Gtk-WARNING **: 17:55:19.418: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:20022): Gtk-WARNING **: 17:55:19.418: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:20022): Gtk-WARNING **: 17:55:19.486: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:20022): Gtk-WARNING **: 17:55:19.486: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:20142): Gtk-WARNING **: 17:55:19.692: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:20142): Gtk-WARNING **: 17:55:19.692: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618912520734	Marionette	INFO	Listening on port 39221
+
+(/usr/lib/firefox/firefox:20223): Gtk-WARNING **: 17:55:20.735: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:20223): Gtk-WARNING **: 17:55:20.735: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618912520822	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 28: SyntaxError: expected expression, got '<'
+1618912653663	Marionette	INFO	Stopped listening on port 39221
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618912656954	geckodriver	INFO	Listening on 127.0.0.1:59349
+1618912656959	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemaY1ML"
+
+(firefox:20405): Gtk-WARNING **: 17:57:37.023: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:20405): Gtk-WARNING **: 17:57:37.023: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:20490): Gtk-WARNING **: 17:57:38.067: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:20490): Gtk-WARNING **: 17:57:38.067: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:20405): Gtk-WARNING **: 17:57:38.104: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:20405): Gtk-WARNING **: 17:57:38.104: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:20405): Gtk-WARNING **: 17:57:38.177: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:20405): Gtk-WARNING **: 17:57:38.177: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:20519): Gtk-WARNING **: 17:57:38.405: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:20519): Gtk-WARNING **: 17:57:38.405: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:20600): Gtk-WARNING **: 17:57:39.524: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:20600): Gtk-WARNING **: 17:57:39.524: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618912659562	Marionette	INFO	Listening on port 40125
+1618912659585	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1618912664565	Marionette	INFO	Stopped listening on port 40125
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618913139348	geckodriver	INFO	Listening on 127.0.0.1:53453
+1618913139353	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIzvODS"
+
+(firefox:21742): Gtk-WARNING **: 18:05:39.415: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:21742): Gtk-WARNING **: 18:05:39.415: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:21834): Gtk-WARNING **: 18:05:40.445: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:21834): Gtk-WARNING **: 18:05:40.445: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:21742): Gtk-WARNING **: 18:05:40.483: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:21742): Gtk-WARNING **: 18:05:40.483: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:21742): Gtk-WARNING **: 18:05:40.552: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:21742): Gtk-WARNING **: 18:05:40.552: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:21862): Gtk-WARNING **: 18:05:40.759: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:21862): Gtk-WARNING **: 18:05:40.759: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:21940): Gtk-WARNING **: 18:05:41.725: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:21940): Gtk-WARNING **: 18:05:41.725: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618913141740	Marionette	INFO	Listening on port 37053
+1618913141774	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 28: SyntaxError: expected expression, got '<'
+1618913189175	geckodriver	INFO	Listening on 127.0.0.1:57191
+1618913189180	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileS6S7PX"
+
+(firefox:22052): Gtk-WARNING **: 18:06:29.239: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:22052): Gtk-WARNING **: 18:06:29.239: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:22141): Gtk-WARNING **: 18:06:30.297: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:22141): Gtk-WARNING **: 18:06:30.297: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:22052): Gtk-WARNING **: 18:06:30.335: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:22052): Gtk-WARNING **: 18:06:30.335: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:22052): Gtk-WARNING **: 18:06:30.405: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:22052): Gtk-WARNING **: 18:06:30.405: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:22169): Gtk-WARNING **: 18:06:30.615: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:22169): Gtk-WARNING **: 18:06:30.615: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:22247): Gtk-WARNING **: 18:06:31.588: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:22247): Gtk-WARNING **: 18:06:31.588: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618913191595	Marionette	INFO	Listening on port 37019
+1618913191710	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: WebGL context was lost.
+1618913238438	Marionette	INFO	Stopped listening on port 37019
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618913239823	Marionette	INFO	Stopped listening on port 37053
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618913285869	geckodriver	INFO	Listening on 127.0.0.1:44459
+1618913285873	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSPbqrN"
+
+(firefox:22405): Gtk-WARNING **: 18:08:05.935: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:22405): Gtk-WARNING **: 18:08:05.935: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:22490): Gtk-WARNING **: 18:08:06.947: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:22490): Gtk-WARNING **: 18:08:06.947: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:22405): Gtk-WARNING **: 18:08:06.983: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:22405): Gtk-WARNING **: 18:08:06.983: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:22405): Gtk-WARNING **: 18:08:07.052: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:22405): Gtk-WARNING **: 18:08:07.052: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:22519): Gtk-WARNING **: 18:08:07.258: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:22519): Gtk-WARNING **: 18:08:07.258: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:22604): Gtk-WARNING **: 18:08:08.327: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:22604): Gtk-WARNING **: 18:08:08.327: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618913288349	Marionette	INFO	Listening on port 36013
+1618913288397	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: WebGL context was lost.
+1618913389923	geckodriver	INFO	Listening on 127.0.0.1:45499
+1618913389927	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileI5bzAa"
+
+(firefox:22746): Gtk-WARNING **: 18:09:50.003: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:22746): Gtk-WARNING **: 18:09:50.003: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:22837): Gtk-WARNING **: 18:09:50.993: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:22837): Gtk-WARNING **: 18:09:50.993: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:22746): Gtk-WARNING **: 18:09:51.029: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:22746): Gtk-WARNING **: 18:09:51.029: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:22746): Gtk-WARNING **: 18:09:51.097: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:22746): Gtk-WARNING **: 18:09:51.097: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:22865): Gtk-WARNING **: 18:09:51.334: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:22865): Gtk-WARNING **: 18:09:51.334: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:22944): Gtk-WARNING **: 18:09:52.262: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:22944): Gtk-WARNING **: 18:09:52.262: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618913392278	Marionette	INFO	Listening on port 33943
+1618913392350	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 28: SyntaxError: expected expression, got '<'
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: WebGL context was lost.
+1618913445436	geckodriver	INFO	Listening on 127.0.0.1:57131
+1618913445441	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiler1lT6F"
+
+(firefox:23076): Gtk-WARNING **: 18:10:45.499: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:23076): Gtk-WARNING **: 18:10:45.499: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:23167): Gtk-WARNING **: 18:10:46.633: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:23167): Gtk-WARNING **: 18:10:46.633: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:23076): Gtk-WARNING **: 18:10:46.667: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:23076): Gtk-WARNING **: 18:10:46.668: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:23076): Gtk-WARNING **: 18:10:46.736: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:23076): Gtk-WARNING **: 18:10:46.736: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:23195): Gtk-WARNING **: 18:10:46.969: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:23195): Gtk-WARNING **: 18:10:46.969: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:23280): Gtk-WARNING **: 18:10:48.033: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:23280): Gtk-WARNING **: 18:10:48.033: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618913448063	Marionette	INFO	Listening on port 38005
+1618913448162	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 28: SyntaxError: expected expression, got '<'
+1618913472458	Marionette	INFO	Stopped listening on port 38005
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618913473807	Marionette	INFO	Stopped listening on port 33943
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618916034185	geckodriver	INFO	Listening on 127.0.0.1:47267
+1618916034188	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilej8c6tp"
+
+(firefox:26617): Gtk-WARNING **: 18:53:54.257: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:26617): Gtk-WARNING **: 18:53:54.257: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:26708): Gtk-WARNING **: 18:53:55.312: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:26708): Gtk-WARNING **: 18:53:55.312: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:26617): Gtk-WARNING **: 18:53:55.349: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:26617): Gtk-WARNING **: 18:53:55.349: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:26617): Gtk-WARNING **: 18:53:55.417: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:26617): Gtk-WARNING **: 18:53:55.417: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:26736): Gtk-WARNING **: 18:53:55.626: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:26736): Gtk-WARNING **: 18:53:55.626: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618916036619	Marionette	INFO	Listening on port 44965
+
+(/usr/lib/firefox/firefox:26816): Gtk-WARNING **: 18:53:56.620: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:26816): Gtk-WARNING **: 18:53:56.620: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618916036710	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 28: SyntaxError: expected expression, got '<'
+1618916093330	Marionette	INFO	Stopped listening on port 44965
+1618916094711	geckodriver	INFO	Listening on 127.0.0.1:58417
+1618916094714	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefZfMFk"
+
+(firefox:26964): Gtk-WARNING **: 18:54:54.776: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:26964): Gtk-WARNING **: 18:54:54.776: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:27056): Gtk-WARNING **: 18:54:55.836: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:27056): Gtk-WARNING **: 18:54:55.836: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:26964): Gtk-WARNING **: 18:54:55.873: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:26964): Gtk-WARNING **: 18:54:55.873: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:26964): Gtk-WARNING **: 18:54:55.942: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:26964): Gtk-WARNING **: 18:54:55.942: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:27084): Gtk-WARNING **: 18:54:56.162: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:27084): Gtk-WARNING **: 18:54:56.162: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:27162): Gtk-WARNING **: 18:54:57.284: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:27162): Gtk-WARNING **: 18:54:57.284: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618916097293	Marionette	INFO	Listening on port 36977
+1618916097345	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 28: SyntaxError: expected expression, got '<'
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1618916271498	geckodriver	INFO	Listening on 127.0.0.1:41509
+1618916271501	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezLMP2b"
+
+(firefox:27522): Gtk-WARNING **: 18:57:51.559: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:27522): Gtk-WARNING **: 18:57:51.559: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:27614): Gtk-WARNING **: 18:57:52.694: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:27614): Gtk-WARNING **: 18:57:52.694: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:27522): Gtk-WARNING **: 18:57:52.732: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:27522): Gtk-WARNING **: 18:57:52.732: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:27522): Gtk-WARNING **: 18:57:52.801: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:27522): Gtk-WARNING **: 18:57:52.801: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:27642): Gtk-WARNING **: 18:57:53.030: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:27642): Gtk-WARNING **: 18:57:53.030: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:27721): Gtk-WARNING **: 18:57:54.081: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:27721): Gtk-WARNING **: 18:57:54.081: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618916274094	Marionette	INFO	Listening on port 35179
+1618916274152	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 28: SyntaxError: expected expression, got '<'
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618916985457	geckodriver	INFO	Listening on 127.0.0.1:50445
+1618916985460	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2AlNB0"
+
+(firefox:28949): Gtk-WARNING **: 19:09:45.520: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:28949): Gtk-WARNING **: 19:09:45.520: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:29042): Gtk-WARNING **: 19:09:46.609: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:29042): Gtk-WARNING **: 19:09:46.609: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:28949): Gtk-WARNING **: 19:09:46.645: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:28949): Gtk-WARNING **: 19:09:46.645: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:28949): Gtk-WARNING **: 19:09:46.714: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:28949): Gtk-WARNING **: 19:09:46.714: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:29070): Gtk-WARNING **: 19:09:46.922: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:29070): Gtk-WARNING **: 19:09:46.922: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:29148): Gtk-WARNING **: 19:09:48.077: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:29148): Gtk-WARNING **: 19:09:48.077: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618916988084	Marionette	INFO	Listening on port 33303
+1618916988182	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618917001292	Marionette	INFO	Stopped listening on port 33303
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618917040480	geckodriver	INFO	Listening on 127.0.0.1:41891
+1618917040483	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecR2aji"
+
+(firefox:29288): Gtk-WARNING **: 19:10:40.540: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:29288): Gtk-WARNING **: 19:10:40.540: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:29378): Gtk-WARNING **: 19:10:41.603: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:29378): Gtk-WARNING **: 19:10:41.603: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:29288): Gtk-WARNING **: 19:10:41.637: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:29288): Gtk-WARNING **: 19:10:41.638: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:29288): Gtk-WARNING **: 19:10:41.706: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(firefox:29288): Gtk-WARNING **: 19:10:41.706: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:29406): Gtk-WARNING **: 19:10:41.915: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:29406): Gtk-WARNING **: 19:10:41.915: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:29485): Gtk-WARNING **: 19:10:42.978: Theme parsing error: gtk.css:9287:102: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(/usr/lib/firefox/firefox:29485): Gtk-WARNING **: 19:10:42.979: Theme parsing error: gtk.css:9292:114: The :focused pseudo-class is deprecated. Use :focus instead.
+1618917042985	Marionette	INFO	Listening on port 36531
+1618917043003	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.12/index.js,kg/tb-nav/2.5.11/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.9/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 28: SyntaxError: expected expression, got '<'
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1618917726566	Marionette	INFO	Stopped listening on port 36977
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5D0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1618918052863	Marionette	INFO	Stopped listening on port 36013
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
